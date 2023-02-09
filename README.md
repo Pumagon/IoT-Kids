@@ -4,3 +4,5 @@ RGB LEDのRGBとは赤(red)緑(green)青(blue)の略で、この１つのLEDに�
 まずRGB LEDを以下の用に繋げます。
 ![RGB LED_ブレッドボード](https://user-images.githubusercontent.com/81986311/216890125-45dff2c0-d047-40a3-9642-8af00716ac48.png)
 左からGPIO2、GPIO3、GPIO4そしてGNDに繋げてください。
+# RGB LEDをテストする
+まずPWMを使う前に赤と青を組み合わせて紫を作ります。
